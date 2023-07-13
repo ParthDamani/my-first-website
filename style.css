@@ -1,0 +1,25 @@
+body{
+    background-color:aqua;
+}
+h1{
+    background-color: red;
+    color: blue;
+}
+#p1{background-color: bisque;
+    color:black;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#p2{background-color: bisque;
+    color:black;
+}
+#p3{background-color: bisque;
+    color:black;
+}
+#p4{background-color: bisque;
+    color:black;
+}
+#i1{
+    border-color: blue;
+}
